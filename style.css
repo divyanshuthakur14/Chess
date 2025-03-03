@@ -24,7 +24,7 @@ button {
 .board {
     width: min-content;
     margin: 32px auto 0;
-    border: 10px solid red;
+    border: 10px solid black;
     border-radius: 6px;
 
     display: flex;
@@ -55,9 +55,9 @@ button {
 }
 
 .black {
-    background: #774C3B;
+    background: purple;
 }
 
 .white {
-    background: #C99468;
+    background: white;
 }
